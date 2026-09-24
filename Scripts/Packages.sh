@@ -73,6 +73,11 @@ UPDATE_PACKAGE "openlist2" "sbwml/luci-app-openlist2" "main"
 UPDATE_PACKAGE "qbittorrent" "sbwml/luci-app-qbittorrent" "master" "" "qt6base qt6tools rblibtorrent"
 UPDATE_PACKAGE "quickfile" "sbwml/luci-app-quickfile" "main"
 
+UPDATE_PACKAGE "lucky" "sirpdboy/lci-app-lucky" "main"
+UPDATE_PACKAGE "luci-app-clientstatus" "migee99/luci-app-clientstatus" "main"
+UPDATE_PACKAGE "luci-app-harbor-file" "destan19/luci-app-harbor-file" "main"
+UPDATE_PACKAGE "luci-app-harbor-file-pro" "whzhni1/luci-app-harbor-file-pro" "main"
+
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 UPDATE_PACKAGE "netspeedtest" "sirpdboy/netspeedtest" "main" "" "homebox ookla-speedtest"
 UPDATE_PACKAGE "netwizard" "sirpdboy/luci-app-netwizard" "main"
